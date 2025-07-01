@@ -18,7 +18,7 @@ I'm a Software Engineer passionate about building efficient, scalable, and impac
   <a href="https://x.com/AbdalazizEsam2"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
   <a href="https://facebook.com/AbdalazizEsam07"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/a.esam07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/c/OkatoGO/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ---
