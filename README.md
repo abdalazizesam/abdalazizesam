@@ -71,8 +71,8 @@ I'm a Software Engineer passionate about building efficient, scalable, and impac
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalazizesam07&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Abdalaziz's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalazizesam07&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Abdalaziz's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalazizesam&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Abdalaziz's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalazizesam&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Abdalaziz's Top Languages">
 </p>
 
 ---
